@@ -1,5 +1,6 @@
 package com.missions.dayofweekprinter;
 
+import com.missions.dayofweekprinter.Application;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
