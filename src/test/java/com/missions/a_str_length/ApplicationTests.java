@@ -12,5 +12,4 @@ public class ApplicationTests {
         // "단어1: 4, 단어2: 2, 단어3: 3, 총 길이: 9"
         Assertions.assertEquals("단어1: 4, 단어2: 2, 단어3: 3, 총 길이: 9", result);
     }
-
 }
